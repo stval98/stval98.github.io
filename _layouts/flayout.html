@@ -20,26 +20,18 @@
 </head>
 <body>
 <div class="container">
-    {% include header.html %}
-    <main role="main">
-
-        <!-- Main jumbotron for a primary marketing message or call to action -->
-        {{ content }}
-
-        <div class="container">
-            <!-- Example row of columns -->
-            <div class="row">
-                {% include block1.html %}
-                {% include block2.html %}
-                {% include block3.html %}
+    <div class="container">
+        {% include header.html %}
+        <div class="row">
+            <div class="col-8">
+                {{ content }}
             </div>
-
-            <hr>
-        </div> <!-- /container -->
-
-    </main>
-    {% include footer.html %}
-</div>
+            <div class="col-4">
+                {% include sidebar.html %}
+            </div>
+        </div>
+        {% include footer.html %}
+    </div>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
