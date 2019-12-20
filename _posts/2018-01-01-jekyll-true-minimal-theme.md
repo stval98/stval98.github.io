@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
+title:  "Sophia Saint-Val"
 date:   2018-01-01 23:22:40 +0300
 ---
 
