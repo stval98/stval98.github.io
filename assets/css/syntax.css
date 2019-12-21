@@ -1,6 +1,7 @@
 body {
     padding-top: 5rem;
-    position: center;
+    display: flex;
+    justify-content: center;
 }
 
 nav{
