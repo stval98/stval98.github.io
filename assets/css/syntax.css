@@ -1,8 +1,8 @@
 body {
     padding-top: 5rem;
-    align-content: center;
+    position: center;
 }
 
 nav{
-    padding-bottom: 5rem;
+    padding-bottom: 10px;
 }
