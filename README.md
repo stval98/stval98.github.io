@@ -6,23 +6,24 @@ For this mini project, you need to take your content from project 2 and recreate
 **Requirements:**
 
 Show at least 20 commits labeled correctly with:
-Task - for creating files and simple actions
-Feature - for whole pages or major sections of a page like a carousel or jumbotron 
-Fix - Fixing mistakes
-Mailchimp Contact Form
-Google Analytics Tracking
-A link to your github account on your homepage located in your jumbotron or carousel.
-Linkedin button to connect to you on the homepage and a link to download your resume.  These are your call to actions for the site.
-F Layout for content
-Z Layout for home page
-A footer with a copyright, your name, and links to your github, and linkedin.
-Menu
-Home
-About
-Projects
-Project 1
-Project 2
-Project 3
++ Task - for creating files and simple actions
++ Feature - for whole pages or major sections of a page like a carousel or jumbotron 
++ Fix - Fixing mistakes
++ Mailchimp Contact Form
++ Google Analytics Tracking
++ A link to your github account on your homepage located in your jumbotron or carousel.
++ Linkedin button to connect to you on the homepage and a link to download your resume.  These are your call to actions for the site.
++ F Layout for content
++ Z Layout for home page
++ A footer with a copyright, your name, and links to your github, and linkedin.
++ Menu
+    - Home
+    - About
+    - Projects
+    - Project 1
+    - Project 2
+    - Project 3
+
 Add any others you want
 Resume in HTML with a link to download it as a PDF
 Contact
